@@ -47,3 +47,11 @@ Este es un ejemplo de _**combinación**_
 - [X] Pagar los derechos
 - [X] Asistir a la cita
 - [X] Esperar a que salga el pasaporte
+
+# Ejemplo de citacion
+
+Mis estudiantes dijeron:
+> profe, ya compro el GTA VI
+> porque no?
+> Si es un juego buenísimo!!
+> 
