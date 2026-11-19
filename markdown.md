@@ -65,4 +65,14 @@ print("Este es un ejemplo de código en python")
 Códogo en powershell
 ```powershell
 Remove-Item -Rescure hola.txt
+```
+
+# Ejemplo de tabla: Tabla del XOR
+A | B | A XOR B
+--|---|---------
+1 | 1 | 0
+1 | 0 | 1
+0 | 1 | 1
+0 | 0 | 0
+
 
