@@ -18,7 +18,7 @@ Este es un ejemplo de **texto en negrillas**
 
 Este es un ejemplo de __texto en negrilla__
 
-Este es un ejemplo de __**combinación**__
+Este es un ejemplo de _**combinación**_
 
 # ejemplo de  lista con viñetas: colores
 * Amarillo
