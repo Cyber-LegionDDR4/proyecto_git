@@ -54,4 +54,15 @@ Mis estudiantes dijeron:
 > profe, ya compro el GTA VI
 > porque no?
 > Si es un juego buenísimo!!
-> 
+
+# Snippets de codigo
+
+Código de python
+```python
+print("hello peggy")
+print("Este es un ejemplo de código en python")
+```
+Códogo en powershell
+```powershell
+Remove-Item -Rescure hola.txt
+
