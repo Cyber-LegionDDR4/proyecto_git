@@ -9,3 +9,12 @@ Esto es mas texto normal
 ### Este es un encabezado de nivel 3
 
 Esto es aun mas texto normal
+
+Este es un ejemplo de _texto en cursivo_
+Este es un ejemplo de *texto en cursiva*
+Este es un ejemplo de **texto en negrillas**
+Este es un ejemplo de __texto en negrilla__
+Este es un ejemplo de __**combinación**__
+
+
+
